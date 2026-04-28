@@ -58,7 +58,7 @@ This page focuses on identifying which customer segments are most likely to chur
 - Churn rate by number of products
 - Age group vs. churn distribution
 
-![Customer Churn Dashboard](Dashboards/churn_dashboard.png)
+![Customer Churn Dashboard](Dashboards/2)
 
 ---
 
@@ -78,7 +78,7 @@ This page examines the financial implications of churn, with a focus on balance 
 - Customer count by age group and churn status
 - Geographic breakdown table: balance, products, and churn per country
 
-![Risk & Financial Analysis Dashboard](Dashboards/risk_financial.png)
+![Risk & Financial Analysis Dashboard](Dashboards/3)
 
 ---
 
