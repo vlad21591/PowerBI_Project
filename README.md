@@ -1,4 +1,4 @@
-# Bank Customer Churn & Sales Analysis
+# Bank Sales Analysis & Customer Churn
 
 ## Project Overview:
 
