@@ -99,3 +99,28 @@ The 75+ age group is the largest customer segment (5,950 customers) and also car
 
 #### Balance at Risk
 Of the $417M balance held by churned customers, the largest concentration is in Germany and among inactive members — highlighting where financial risk is most acute.
+
+---
+
+## Key Insights & Recommendations:
+
+##### 1. Germany Needs Urgent Attention
+Germany has a churn rate far exceeding France and Spain despite having fewer customers. This market is underperforming and requires localized investigation. The bank should conduct customer exit surveys in Germany and benchmark against regional competitors to identify service gaps or pricing mismatches.
+
+##### 2. Re-engage Inactive Members Before They Leave
+With ~3,400 inactive members churning versus ~2,100 active ones, inactivity is one of the strongest churn predictors in the dataset. A proactive re-engagement strategy — such as personalized outreach, loyalty rewards, or product usage nudges — could significantly reduce churn volume among this group.
+
+##### 3. Multi-Product Customers Are Surprisingly Fragile
+The data reveals that customers with 3–4 products churn at a higher rate than those with just 1–2. Rather than assuming more products equals more loyalty, the bank should review whether bundled offerings are genuinely meeting customer needs or creating unnecessary complexity and dissatisfaction.
+
+##### 4. The 75+ Segment is Both the Largest and Most Financially Exposed
+At 5,950 customers, the 75+ age group is the single largest segment. Given their likely higher average balances, losing even a fraction of this group has outsized financial consequences. Dedicated relationship management and simplified digital experiences for this demographic are worth investing in.
+
+##### 5. Credit Score is Not a Reliable Churn Predictor
+The average credit score across churned customers (599) is very close to the overall average, suggesting creditworthiness alone does not distinguish loyal customers from those who leave. Behavioral signals — like activity status, product count, and geography — are far more actionable indicators.
+
+##### 6. 80% of Total Balance is Retained — But the 20% at Risk is $417M
+While the retention picture looks healthy on the surface (77.83% of customers stayed), the $417M in balance held by churned customers is a critical financial risk. Balance-weighted churn analysis should become a core metric tracked monthly, not just headcount-based churn rate.
+
+##### 7. Card Type and Gender Show Minimal Churn Variance
+After filtering across card types (Silver, Gold, Platinum, Diamond) and gender, the churn rate remains relatively stable. This means marketing segmentation by card type or gender is unlikely to yield differentiated retention results — resources are better directed at geography, activity level, and product count.
