@@ -40,7 +40,7 @@ This page provides a comprehensive overview of the customer base before any chur
 - Active vs. inactive member split
 - Card type usage breakdown
 
-![Customer Analysis Dashboard](Dashboards/customer_analysis.png)
+Dashboards/1
 
 ---
 
